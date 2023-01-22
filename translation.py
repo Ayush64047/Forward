@@ -22,10 +22,10 @@ More details /help</i>"""
   ABOUT_TXT = """<b><u>My Info</b></u>
 
 <b>Name :</b> <code>Auto Forward Bot</code>
-<b>Credit :</b> <code>Dark Angel</code>
+<b>24×7 movies :</b> <code>@blackest_harbour</code>
 <b>Language :</b> <code>Python3</code>
 <b>Lybrary :</b> <code>Pyrogram v1.2.9</code>
-<b>Server :</b> <code>Heroku</code>
+<b>Server :</b> <code>V.P.S</code>
 <b>Build :</b> <code>V2.0</code>"""
   FROM_MSG = "<b><u>SET FROM CHANNEL USERNAME</b></u>\n<b>Enter From Channel Username</b>\n<code>eg: @username</code>\n/cancel <code>- Cancel this process</code>"
   TO_MSG = "<b><u>SET TO CHANNEL ID</b></u>\n<b>Enter To Channel id</b>\n<code>eg: -100xxxxxxxxxx</code>\n/cancel <code>- Cancel this process</code>"
